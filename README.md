@@ -141,37 +141,6 @@ Govt. Model Engineering College, India | GPA: 3.9/4.0 | Apr 2015
 🎯 35% reduction in production defects through testing
 ```
 
----
-
-## 🌟 Key Projects & Achievements
-
-### Event-Driven Data Pipeline Architecture
-Built high-throughput data ingestion system processing **2M+ records/hour** using Apache Kafka, Spring Boot microservices, and Kubernetes on AWS EKS. Improved subscription reliability by **40%** through event-driven architecture patterns.
-
-**Technologies**: Kafka, Spring Boot, Kubernetes, AWS, Helm, Terraform
-
----
-
-### SAP SuccessFactors Integration Suite
-Enhanced Employee Central modules with REST/OData integrations for Payment Information, Address Validation, and Document Generation. Directly improved user satisfaction scores based on feedback from **100+ end-users**.
-
-**Technologies**: SAP BTP, Cloud Foundry, OData, REST APIs, SAP HANA
-
----
-
-### Infrastructure Automation & CI/CD
-Implemented containerized microservices on Kubernetes with Helm-based modular templates. Built **zero-touch deployment** pipelines with GitHub Actions including automated security scanning and compliance checks.
-
-**Technologies**: Kubernetes, Docker, Helm, GitHub Actions, Terraform
-
----
-
-### OpenJDK Migration & Security Enhancement
-Pioneered enterprise-wide OpenJDK integration and SSL certificate validation across Unisys Java product suite, enhancing system security and modernizing legacy applications.
-
-**Technologies**: Java, OpenJDK, SSL/TLS, X.509 Certificates
-
----
 
 ## 💡 Areas of Interest
 
@@ -180,23 +149,3 @@ Pioneered enterprise-wide OpenJDK integration and SSL certificate validation acr
 - 🤖 **AI/ML Integration** - GenAI orchestration, agentic automation, prompt engineering
 - 🏗️ **Platform Engineering** - Developer experience, self-service platforms, observability
 - 🔐 **Security & Compliance** - OAuth, certificate management, threat modeling
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing enterprise architecture, SAP ecosystem innovations, cloud-native technologies, and AI integration patterns. Feel free to reach out!
-
-- 📧 Email: [sujitharao93@gmail.com](mailto:sujitharao93@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sujitha-rao](https://linkedin.com/in/sujitha-rao)
-- 📍 Location: Atlanta, Georgia
-
----
-
-## 📝 Professional Philosophy
-
-> "Building scalable, secure, and maintainable enterprise systems that deliver measurable business value while continuously learning and adapting to emerging technologies."
-
----
-
-
