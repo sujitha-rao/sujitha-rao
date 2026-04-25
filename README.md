@@ -132,23 +132,6 @@ SSL/Java Suite       Employee Central            CI/CD + Security
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sujitha-rao&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=43B89C&icon_color=43B89C" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitha-rao&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=43B89C" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujitha-rao&bg_color=0d1117&color=43B89C&line=43B89C&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 <div align="center">
