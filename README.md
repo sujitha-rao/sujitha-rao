@@ -44,7 +44,7 @@ focus_areas:
 
 | 🏗️ Scale | ⚡ Reliability | 👥 Users | 🎯 Quality |
 |:---:|:---:|:---:|:---:|
-| **2M+ records/hr** | **40% improvement** | **100+ enterprise clients** | **35% fewer defects** |
+| **2M+ records/hr** | **40 percent improvement** | **100+ enterprise clients** | **35% fewer defects** |
 | Data pipeline architecture | System reliability boost | Feedback incorporated | Via JUnit/Mockito frameworks |
 
 </div>
