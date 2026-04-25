@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated header with SVG wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sujitha%20Suresh%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SAP%20Professional%20%7C%20Java%20Developer%20%7C%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" />
-
 <!-- Animated typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43B89C&center=true&vCenter=true&width=600&lines=9%2B+Years+of+Enterprise+Engineering+%F0%9F%9A%80;SAP+BTP+%7C+AWS+%7C+Kubernetes+Expert+%E2%98%81%EF%B8%8F;Building+Systems+That+Process+2M%2B+Records%2FHr+%F0%9F%94%A5;Georgia+Tech+MS+CS+Candidate+%F0%9F%8E%93;IBM+Certified+AI+Developer+%F0%9F%A4%96" alt="Typing SVG" />
