@@ -27,15 +27,13 @@
 name: Sujitha Suresh Rao
 location: Atlanta, GA
 education:
-  - MS Computer Science @ Georgia Tech (Expected Spring 2026)
+  - MS Computer Science @ Georgia Tech (Expected Fall 2027)
   - BTech Computer Science @ Govt. Model Engineering College (GPA: 3.9/4.0)
 experience: 9+ years in enterprise software engineering
 focus_areas:
   - Cloud-Native Architecture (AWS, SAP BTP, Kubernetes)
   - Event-Driven Systems (Apache Kafka, Spring Boot)
   - SAP Ecosystem (Concur, SuccessFactors, S/4HANA)
-  - AI/ML Integration & Agentic Automation
-currently_exploring: GenAI integration patterns, LLM-powered automation
 ```
 
 ---
